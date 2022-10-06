@@ -4,7 +4,7 @@
 # AAINDEX.py to calculate the AAINDEX feature
 # FeatureSelection.py for Selecting the AAINDEX optimal 50 feature
 # AAC.py can be used to calculate Amino Acid Composition of peptides
-# The trained model model.py can be used for evaluation of result
+# The trained model model.pkl can be used for evaluation of result
 # Problem of overfitting can be accessed by running the code of Overfitting in DNN and CNN.py
 # cd-hit0.35 is a trained model with newly constructed dataset with cut-off 0.35 and can be used to evalute the test datasets.
 # Result from Data augmentation can be accessed running ACPBOOST.py
